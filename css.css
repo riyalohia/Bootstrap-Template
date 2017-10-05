@@ -1,0 +1,116 @@
+@media all and (max-width: 480px) {
+   #section2 button{
+   	margin-bottom: 1%;
+   }
+   #section1{
+   	text-align: center;
+   	margin-left: 5%;
+   }
+   #section3{
+   	text-align: center;
+   }
+   #foot{
+      text-align: center;
+   }
+   #theory1 h1,small{
+      font-size: 20px;
+   }
+}
+
+#navbtn:hover{
+background-color:#32CD32;
+color:white;
+}
+#navbtn {
+color:#32CD32;
+}
+.carousel{
+	margin-top: 3% !important;
+}
+.carousel-inner {
+	
+	
+	background-color:#808080;
+	height:500px;
+	color: white;
+	
+}
+ .carousel-inner h2{
+ 	font-size: 40px;
+ }
+
+ .carousel-inner p{
+ 	font-size: 20px;	
+ }
+ #section1{
+ 	padding-top: 15%;
+ 	padding-left: 10%;
+ 	width:80%;
+ }
+ #section2{
+ 	padding-top: 13%;
+ 	width:70%;
+ 	text-align: center;
+ 	margin-left: 15%;
+ 	
+ }
+ #section3{
+ 	padding-top: 15%;
+ 	text-align: right;
+ 	width:70%;
+ 	margin-left: 20%;
+ }
+ #circles p{
+ 	width:70%;
+ 	font-size: 15px;
+ }
+
+ #circles button{
+ 	background-color: #A9A9A9;
+ 	color:white;
+ 	
+ }
+ #theory1 small{
+    font-size: 50px;
+ }
+ #theory1 h1{
+   font-size: 50px;
+   margin-left: 8%;
+ }
+ #theory1 p{
+   font-size:20px;
+   margin-left: 8%;
+   width:87%;
+ }
+ #theory2 small{
+    font-size: 50px;
+ }
+ #theory2 h1{
+   font-size: 50px;
+ 
+ }
+ #theory2 p{
+   font-size:20px;
+   
+   width:87%;
+ }
+
+ #theory3 small{
+    font-size: 50px;
+ }
+ #theory3 h1{
+   font-size: 50px;
+   margin-left: 8%;
+   width:90%;
+ }
+ #theory3 p{
+   font-size:20px;
+   margin-left: 8%;
+   width:87%;
+ }
+ footer{
+   height:80px;
+ }
+#foot{
+   text-align: right;
+}
